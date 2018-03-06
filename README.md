@@ -17,7 +17,7 @@
 ### run api-gateway
   * go inside to the api-gateway project folder
   * then run ``` mvn clean package ```
-  * then run ``` java -jar target\api-gateway-0.0.1-SNAPSHOT.jar ```
+  * then run ``` java -jar target\api-gateway-0.0.1-SNAPSHOT.jar ```   
   
 ### run auth-service
   * go inside to the auth-service project folder
